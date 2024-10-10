@@ -7,6 +7,7 @@
 
 import Foundation
 import AppKit
+import SnapKit
 public struct TipViewKey {
     public enum TipViewAlignment : Hashable {
         case top
